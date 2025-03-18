@@ -41,3 +41,33 @@ Set up an agility course with cones arranged in a zig-zag pattern. Have students
     - What might be done to improve both speed and agility?
 
 ---
+
+### 4. Hurdle Sprint Analysis
+
+**Activity:**  
+Design a short course with a series of low hurdles spaced evenly along a straight track. Invite students to sprint over the hurdles, ensuring they clear each one safely. Use stopwatches to capture the total time taken for the run.
+
+**Demonstration & Understanding:**  
+- **Lyrical Observation:** Begin by running the course yourself, gracefully leaping over each hurdle. Emphasize how every jump creates a brief pause—an interruption in the otherwise smooth arc of your motion.  
+- **Scientific Connection:** Explain that while the overall sprint measures average speed (total distance divided by total time), the act of hurdling introduces variations in speed. Each hurdle forces a brief deceleration as students prepare for the jump, followed by acceleration as they resume their sprint.  
+- **Graphing the Journey:** Encourage students to sketch a simple distance-time graph for their sprint. A perfectly straight line would denote uniform motion; however, the dips and rises on their graph represent the moments of deceleration and acceleration.  
+- **Forward-Thinking Reflection:** 
+    - How do obstacles change the rhythm of our run?
+    - Can we find ways to smooth out these transitions?  
+---
+
+### 5. Dribble and Dash Challenge
+
+**Activity:**  
+Create a dribbling course by arranging cones in a winding path. Have students dribble a soccer or basketball through the cones as fast as they can, then dash to the finish line. Record the time taken to complete the course both with and without the ball.
+
+**Demonstration & Understanding:**  
+- **The Dance of Control:** Start by demonstrating the course yourself—first sprinting without the ball, then dribbling along the path. Let your movements illustrate how handling the ball introduces an additional layer of coordination and control.  
+- **Comparative Learning:** Have the students run the course twice: once sprinting without the ball and once while dribbling. Compare the times to highlight how the act of dribbling slows down the motion.  
+- **Breaking It Down:** Explain that while both runs cover the same distance, the extra time taken with the ball reflects the precision required to maintain control. Use the formula **Speed = Distance ÷ Time** to show how even slight delays affect overall speed.  
+- **Encouraging Inquiry:** 
+    - What adjustments can be made to improve both speed and control?
+    - How does focus transform the energy of a sprint into the poetry of a dribble?  
+- **Visualization:** Let them plot their results on a chart, linking the measured times to the rhythms of their movement—a vivid interplay of science and sport.  
+
+---
